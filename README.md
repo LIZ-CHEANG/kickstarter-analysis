@@ -11,7 +11,7 @@ The purpose of this analysis is to be able help Louise visualize how campaigns w
 ##Based on the findings we can conclude that the number of successful outcomes is much greater than failed/canceled campaigns. We can also see that during the months of April 
 
 ##Outcomes based on Goals
- ### We can see that when we have a high goal the more likely it is not not be reached
+ ##We can see that when we have a high goal the more likely it is not not be reached
  
 ##Limitations
 ###One of the limitations I can see is the findings are very generalized. we will not have same outcomes if we are to see this per country. Not every country will ahve the same number of succescess are the other. It could be that one country favors plays more than others.
