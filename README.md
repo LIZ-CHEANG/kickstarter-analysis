@@ -10,7 +10,7 @@ The purpose of this analysis is to be able help Louise visualize how campaigns w
 ##Theater Outcomes by launch date
 ### Based on the finndings we can conclude that the number of successful outcomes is much greater than failed/canceled campaigns. We can also see that during the months of April 
 
-## Outcomes based on Goals
+##Outcomes based on Goals
  ### We can see that when we have a high goal the more likely it is not not be reached
  
 ##Limitations
